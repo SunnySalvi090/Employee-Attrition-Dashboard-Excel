@@ -9,6 +9,10 @@ An interactive HR analytics dashboard built in **Microsoft Excel** using the **I
 
 ---
 
+![Dashboard Preview](Dashboard_Screenshot.jpg)
+
+---
+
 ## ✨ Features
 - ✅ Interactive Excel Dashboard
 - ✅ Clean KPI Cards (Attrition Rate, Total Employees, Avg. Income)
